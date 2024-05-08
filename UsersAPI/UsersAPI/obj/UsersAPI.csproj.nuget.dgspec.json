@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos9\\UsersAPI\\UsersAPI\\UsersAPI.csproj": {}
+    "E:\\Projetos-Pessoais\\UsersAPI\\UsersAPI\\UsersAPI.csproj": {}
   },
   "projects": {
-    "E:\\Projetos9\\UsersAPI\\UsersAPI\\UsersAPI.csproj": {
+    "E:\\Projetos-Pessoais\\UsersAPI\\UsersAPI\\UsersAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos9\\UsersAPI\\UsersAPI\\UsersAPI.csproj",
+        "projectUniqueName": "E:\\Projetos-Pessoais\\UsersAPI\\UsersAPI\\UsersAPI.csproj",
         "projectName": "UsersAPI",
-        "projectPath": "E:\\Projetos9\\UsersAPI\\UsersAPI\\UsersAPI.csproj",
+        "projectPath": "E:\\Projetos-Pessoais\\UsersAPI\\UsersAPI\\UsersAPI.csproj",
         "packagesPath": "C:\\Users\\kheed\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos9\\UsersAPI\\UsersAPI\\obj\\",
+        "outputPath": "E:\\Projetos-Pessoais\\UsersAPI\\UsersAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,24 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
