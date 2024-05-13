@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AynQkPFmSU0OdLJCyXvyrl9odxdBm0dFKUIXgsV+fEL/2GNQ+TggTTlYh4jaCIzhIX7gg1652hpAc+TQrehq+Q==",
+  "dgSpecHash": "dBbiR+jh1jG2xOIpS2QNBlYUgyW/004QrOnXsH7ki3Fxh3S07i2DLAKvpaZhJKqZoaAd0yeQuR+UzdoNPkxAJg==",
   "success": true,
   "projectFilePath": "E:\\Projetos-Pessoais\\UsersAPI\\UsersAPI\\UsersAPI.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,10 @@
     "C:\\Users\\kheed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kheed\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.2\\microsoft.identitymodel.abstractions.7.5.2.nupkg.sha512",
+    "C:\\Users\\kheed\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.2\\microsoft.identitymodel.jsonwebtokens.7.5.2.nupkg.sha512",
+    "C:\\Users\\kheed\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.2\\microsoft.identitymodel.logging.7.5.2.nupkg.sha512",
+    "C:\\Users\\kheed\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.2\\microsoft.identitymodel.tokens.7.5.2.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.2\\pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",
@@ -38,6 +42,7 @@
     "C:\\Users\\kheed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\kheed\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.2\\system.identitymodel.tokens.jwt.7.5.2.nupkg.sha512",
     "C:\\Users\\kheed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
