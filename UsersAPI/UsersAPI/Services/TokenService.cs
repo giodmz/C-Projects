@@ -7,9 +7,9 @@ using UsersAPI.Models;
 
 namespace UsersAPI.Services
 {
-    internal class TokenService
+    public class TokenService
     {
-        public void GenerateToken(Usuario usuario)
+        public string GenerateToken(Usuario usuario)
         {
             Claim[] claims = new Claim[]
             {
@@ -26,8 +26,10 @@ namespace UsersAPI.Services
                 (
                 expires: DateTime.Now.AddMinutes(10),
                 claims: claims,
-                signingCredentials:
+                signingCredentials: signingCredentials
                 );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
     }
 }
