@@ -47,3 +47,11 @@ E:\Projetos-Pessoais\UsersAPI\UsersAPI\obj\Debug\net6.0\refint\UsersAPI.dll
 E:\Projetos-Pessoais\UsersAPI\UsersAPI\obj\Debug\net6.0\UsersAPI.pdb
 E:\Projetos-Pessoais\UsersAPI\UsersAPI\obj\Debug\net6.0\UsersAPI.genruntimeconfig.cache
 E:\Projetos-Pessoais\UsersAPI\UsersAPI\obj\Debug\net6.0\ref\UsersAPI.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projetos-Pessoais\UsersAPI\UsersAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
